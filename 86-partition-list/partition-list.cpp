@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        ListNode* temp=head,*less=0,*gre=0,*head1=0,*head2=0;
+        ListNode *less,*gre,*head1,*head2;
          head1= new ListNode(0); 
         less=head1;
         head2= new ListNode(0);
@@ -20,22 +20,22 @@ public:
 
        
 
-        while(temp){
-            if((temp->val)<x){
+        while(head){
+            if((head->val)<x){
                
-                    less->next=temp;
-                    less=temp;
+                    less->next=head;
+                    less=head;
                 
             }
             else{
                 
-                    gre->next=temp;
-                    gre=temp;
+                    gre->next=head;
+                    gre=head;
                 }
 
 
             
-        temp=temp->next;}
+        head=head->next;}
         gre->next=0;
         less->next=head2->next;
         
