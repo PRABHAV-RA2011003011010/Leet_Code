@@ -9,6 +9,6 @@ class Solution:
                 if(sub==target):
                     return True
                     break
-            return True if sub==target else False
+            return False
         return True
         
