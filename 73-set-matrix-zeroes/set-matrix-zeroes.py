@@ -3,13 +3,13 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        row=[]    
-        col=[]
+        row=set()    
+        col=set()
         for r in range(len(matrix)):
             for c in range(len(matrix[0])):
                 if(matrix[r][c]==0):
-                    row.append(r)
-                    col.append(c)
+                    row.add(r)
+                    col.add(c)
 
         for r in range(len(matrix)):
             for c in range(len(matrix[0])):
