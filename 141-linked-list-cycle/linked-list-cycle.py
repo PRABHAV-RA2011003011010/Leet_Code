@@ -8,14 +8,14 @@ class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         if not head:
             return False
-        cur=head
+        
         li=[]
-        while cur:
-            li.append(cur)
+        while head:
+            li.append(head)
            
-            if cur.next in li:
+            if head.next in li:
                 return True
             
-            cur=cur.next
+            head=head.next
 
         return False
