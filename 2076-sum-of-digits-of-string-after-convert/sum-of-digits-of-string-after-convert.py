@@ -12,10 +12,6 @@ class Solution:
             num=str(sum1)
             k-=1
 
-
-
-
-        
         return int(num)
             
 
