@@ -5,7 +5,7 @@ class Solution:
             pos=ord(char)-ord('a')+1
             num=num+str(pos)
         
-        while k>0:
+        while k:
             sum1=0
             for x in num:
                 sum1+=int(x)
