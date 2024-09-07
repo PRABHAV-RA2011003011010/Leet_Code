@@ -24,12 +24,10 @@ class Solution:
             
 
         def trav(node,cur):
-            if not node and cur:
+            if not cur:
+                return True
+            if not node:
                 return False
-            elif not node and not cur:
-                return True
-            elif not cur:
-                return True
             
             if node.val!=cur.val:
                 return False
