@@ -17,7 +17,7 @@ class Solution:
         for i in range(len(minute)-1):
             min_distance=min(min_distance,minute[i+1]-minute[i])
         
-        min_distance=min(min_distance,24*60+minute[0]-minute[-1])
+        min_distance=min(min_distance,24*60-(minute[-1]-minute[0]))
 
         return min_distance
         
