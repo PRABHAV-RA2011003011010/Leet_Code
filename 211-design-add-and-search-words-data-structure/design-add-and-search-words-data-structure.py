@@ -24,20 +24,16 @@ class WordDictionary:
         def dfs(i,node):
 
             if i==len(word):
-                if node.endofword==True:
-                    return True
-                return False
-            
+                return node.endofword
+                
             if word[i] in node.childrens:
                 return dfs(i+1,node.childrens[word[i]])
                     
-            else:
-                if word[i]=='.':
-                    for letter in node.childrens:
-                       if dfs(i+1,node.childrens[letter]):
-                            return True
-
-                
+            if word[i]=='.':
+                for letter in node.childrens:
+                    if dfs(i+1,node.childrens[letter]):
+                        return True   
+                         
             return False
             
         
