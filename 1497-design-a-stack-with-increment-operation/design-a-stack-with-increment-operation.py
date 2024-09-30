@@ -24,10 +24,7 @@ class CustomStack:
         
 
     def increment(self, k: int, val: int) -> None:
-        if self.top>=k-1:
-            m=k-1
-        else:
-            m=self.top
+        m=min(self.top,k-1)
         for x in range(m+1):
             self.stack[x]+=val
 
