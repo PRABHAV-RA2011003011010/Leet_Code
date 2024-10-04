@@ -21,8 +21,5 @@ class Solution:
             else:
                 return -1
         
-        print(value)
-        print(freq)
-        
         return int(res/2)
         
