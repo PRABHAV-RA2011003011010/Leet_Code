@@ -13,7 +13,7 @@ class Trie:
     def addfolder(self,path):
         cur=self.root
         path = [dir for dir in path.split('/') if dir]
-        print(path)
+        
         for char in path:
             if char not in cur.children:
                 cur.children[char]=Trienode()
@@ -30,7 +30,6 @@ class Solution:
     def removeSubfolders(self, folder: List[str]) -> List[str]:
 
         res=[]
-
         trie=Trie()
         sorted_path = sorted(folder, key=len)
         for path in sorted_path:
