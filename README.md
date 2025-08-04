@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -27,4 +28,12 @@
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Hash Table
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
