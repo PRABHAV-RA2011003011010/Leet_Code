@@ -8,6 +8,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3791-fruits-into-baskets-iii) |
 ## Math
@@ -57,4 +58,12 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3791-fruits-into-baskets-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Matrix
+|  |
+| ------- |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 <!---LeetCode Topics End-->
