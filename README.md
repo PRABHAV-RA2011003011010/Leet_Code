@@ -14,6 +14,7 @@
 ## Math
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0826-soup-servings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Greedy
@@ -61,9 +62,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0826-soup-servings) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Matrix
 |  |
 | ------- |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
