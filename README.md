@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0326-power-of-three) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
