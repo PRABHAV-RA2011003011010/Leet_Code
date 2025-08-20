@@ -6,6 +6,7 @@
 | ------- |
 | [0679-24-game](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -77,11 +78,13 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0826-soup-servings) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Matrix
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
 |  |
