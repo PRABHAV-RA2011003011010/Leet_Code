@@ -1,29 +1,20 @@
 class Solution:
     def countSquares(self, matrix):
-        n = len(matrix)
-        m = len(matrix[0])
+        
+        rows=len(matrix)
+        cols=len(matrix[0])
 
-        cnt = 0
-        dp = [[0] * m for _ in range(n)]
-
-        # Initialize first column
-        for i in range(n):
-            dp[i][0] = matrix[i][0]
-        # Initialize first row
-        for j in range(m):
-            dp[0][j] = matrix[0][j]
-
-        # Fill DP table
-        for i in range(1, n):
-            for j in range(1, m):
-                if matrix[i][j] == 1:
-                    dp[i][j] = 1 + min(dp[i-1][j-1],
-                                       dp[i-1][j],
-                                       dp[i][j-1])
-
-        # Count all squares
-        for i in range(n):
-            for j in range(m):
-                cnt += dp[i][j]
-
-        return cnt
+        dp = [[0]*cols for _ in range(rows)]
+        res=0
+        
+        for i in range(rows):
+            for j in range(cols):
+                if matrix[i][j]==1:
+                    if i==0 or j==0:
+                        dp[i][j]=1
+                        
+                    else:
+                        dp[i][j]=min(dp[i-1][j],dp[i][j-1],dp[i-1][j-1])+1
+                res+=dp[i][j]
+        return res
+                
