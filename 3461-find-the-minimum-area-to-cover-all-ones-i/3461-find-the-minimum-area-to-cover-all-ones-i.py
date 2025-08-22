@@ -1,8 +1,8 @@
 class Solution:
     def minimumArea(self, grid: List[List[int]]) -> int:
-        imin=len(grid)
+        imin=len(grid)-1
         imax=-1
-        jmin=len(grid[0])
+        jmin=len(grid[0])-1
         jmax=-1
         rows=len(grid)
         cols=len(grid[0])
