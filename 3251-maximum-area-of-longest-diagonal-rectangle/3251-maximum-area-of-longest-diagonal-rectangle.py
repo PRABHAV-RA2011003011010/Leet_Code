@@ -1,7 +1,7 @@
+
 class Solution:
     def areaOfMaxDiagonal(self, dimensions: List[List[int]]) -> int:
-        l=3
-        b=3
+
         max_diagonal=0
         area=0
         
