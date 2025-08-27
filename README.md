@@ -88,6 +88,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0494-target-sum) |
 | [0826-soup-servings](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0826-soup-servings) |
@@ -152,6 +153,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 ## Trie
 |  |
