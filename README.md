@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0679-24-game) |
@@ -54,6 +55,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -86,6 +88,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0494-target-sum) |
 | [0826-soup-servings](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0826-soup-servings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -146,4 +149,16 @@
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1628-count-submatrices-with-all-ones) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
