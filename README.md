@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
+| [0221-maximal-square](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0679-24-game) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0072-edit-distance](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
+| [0221-maximal-square](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0494-target-sum) |
 | [0826-soup-servings](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0826-soup-servings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -100,6 +102,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1628-count-submatrices-with-all-ones) |
