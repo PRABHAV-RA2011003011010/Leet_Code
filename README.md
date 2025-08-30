@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0494-target-sum) |
@@ -60,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
@@ -108,6 +110,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0221-maximal-square](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
