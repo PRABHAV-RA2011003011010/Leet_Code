@@ -136,6 +136,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0231-power-of-two) |
 | [2529-range-product-queries-of-powers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
@@ -189,4 +190,8 @@
 | ------- |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
