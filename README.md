@@ -15,6 +15,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1628-count-submatrices-with-all-ones) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2529-range-product-queries-of-powers) |
@@ -75,9 +76,11 @@
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Binary Search
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3791-fruits-into-baskets-iii) |
 ## Segment Tree
@@ -154,6 +157,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2529-range-product-queries-of-powers) |
 ## Backtracking
 |  |
