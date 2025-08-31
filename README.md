@@ -6,6 +6,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0221-maximal-square) |
@@ -59,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0274-h-index) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -71,6 +73,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
@@ -184,6 +187,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
