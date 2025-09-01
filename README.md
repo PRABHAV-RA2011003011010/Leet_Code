@@ -18,6 +18,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1628-count-submatrices-with-all-ones) |
+| [1917-maximum-average-pass-ratio](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1917-maximum-average-pass-ratio) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1917-maximum-average-pass-ratio](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1917-maximum-average-pass-ratio) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2689-rearranging-fruits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -155,6 +157,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1917-maximum-average-pass-ratio) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Counting
 |  |
