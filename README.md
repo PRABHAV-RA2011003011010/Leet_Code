@@ -51,6 +51,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3830-find-closest-person](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
 | ------- |
