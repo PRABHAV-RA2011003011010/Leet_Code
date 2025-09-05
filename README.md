@@ -160,6 +160,7 @@
 | [0190-reverse-bits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0231-power-of-two) |
 | [2529-range-product-queries-of-powers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -244,4 +246,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
