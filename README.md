@@ -18,6 +18,7 @@
 | [0679-24-game](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1917-maximum-average-pass-ratio) |
@@ -48,6 +49,7 @@
 | [0679-24-game](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
