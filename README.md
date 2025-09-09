@@ -24,6 +24,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1917-maximum-average-pass-ratio) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2529-range-product-queries-of-powers) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0498-diagonal-traverse) |
+| [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3790-fruits-into-baskets-ii) |
@@ -221,6 +223,7 @@
 | [0072-edit-distance](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
+| [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -248,6 +251,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
+| [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
 ## Design
 |  |
 | ------- |
