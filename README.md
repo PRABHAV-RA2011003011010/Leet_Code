@@ -21,6 +21,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1628-count-submatrices-with-all-ones) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1917-maximum-average-pass-ratio) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0670-maximum-swap](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0670-maximum-swap) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1917-maximum-average-pass-ratio) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2689-rearranging-fruits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2689-rearranging-fruits) |
@@ -97,6 +99,7 @@
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2689-rearranging-fruits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Sliding Window
