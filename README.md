@@ -86,6 +86,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2689-rearranging-fruits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2887-sort-vowels-in-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -227,6 +228,7 @@
 | [0097-interleaving-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2887-sort-vowels-in-a-string) |
 ## Trie
 |  |
 | ------- |
