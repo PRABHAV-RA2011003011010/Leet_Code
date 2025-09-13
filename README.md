@@ -104,6 +104,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2689-rearranging-fruits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
 | ------- |
@@ -231,6 +233,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
