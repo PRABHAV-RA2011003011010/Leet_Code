@@ -29,6 +29,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2429-design-a-food-rating-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2689-rearranging-fruits) |
@@ -107,6 +108,7 @@
 | [1006-vowel-spellchecker](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2429-design-a-food-rating-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -138,6 +140,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3791-fruits-into-baskets-iii) |
 ## Dynamic Programming
@@ -195,6 +198,7 @@
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1917-maximum-average-pass-ratio](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2429-design-a-food-rating-system) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Counting
 |  |
@@ -239,6 +243,7 @@
 | [1006-vowel-spellchecker](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
+| [2429-design-a-food-rating-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -274,6 +279,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
+| [2429-design-a-food-rating-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2429-design-a-food-rating-system) |
 ## Data Stream
 |  |
 | ------- |
