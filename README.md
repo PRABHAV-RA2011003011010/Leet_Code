@@ -46,6 +46,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [2689-rearranging-fruits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3678-design-task-manager](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -177,6 +179,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3797-design-spreadsheet) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -249,6 +252,7 @@
 | [2429-design-a-food-rating-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
@@ -284,6 +288,7 @@
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
 | [2429-design-a-food-rating-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3797-design-spreadsheet) |
 ## Data Stream
 |  |
 | ------- |
