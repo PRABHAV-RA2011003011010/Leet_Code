@@ -49,6 +49,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -131,6 +133,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3827-implement-router) |
 ## Segment Tree
 |  |
 | ------- |
@@ -152,6 +155,7 @@
 | [3678-design-task-manager](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -297,6 +301,7 @@
 | [2429-design-a-food-rating-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -310,6 +315,7 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
 | ------- |
