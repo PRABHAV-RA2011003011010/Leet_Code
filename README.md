@@ -257,6 +257,7 @@
 | [0072-edit-distance](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
+| [0165-compare-version-numbers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0165-compare-version-numbers) |
 | [1006-vowel-spellchecker](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
@@ -291,6 +292,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
 | [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
 ## Design
