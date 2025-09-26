@@ -16,6 +16,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0494-target-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1006-vowel-spellchecker) |
@@ -76,6 +77,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0670-maximum-swap) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -93,6 +95,7 @@
 | [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
+| [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2689-rearranging-fruits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2689-rearranging-fruits) |
@@ -133,6 +136,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3791-fruits-into-baskets-iii) |
@@ -299,6 +303,7 @@
 | ------- |
 | [0165-compare-version-numbers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
+| [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
 ## Design
 |  |
