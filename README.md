@@ -21,6 +21,7 @@
 | [0830-largest-triangle-area](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1018-largest-perimeter-triangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -64,6 +65,7 @@
 | [0826-soup-servings](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -81,6 +83,7 @@
 | ------- |
 | [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0670-maximum-swap) |
+| [1018-largest-perimeter-triangle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1018-largest-perimeter-triangle) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1917-maximum-average-pass-ratio) |
@@ -99,6 +102,7 @@
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
 | [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1018-largest-perimeter-triangle) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2689-rearranging-fruits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
