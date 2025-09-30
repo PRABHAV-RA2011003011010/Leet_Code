@@ -34,6 +34,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2429-design-a-food-rating-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -71,6 +72,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -94,6 +96,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Sorting
 |  |
@@ -158,6 +161,7 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0498-diagonal-traverse) |
 | [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3790-fruits-into-baskets-ii) |
