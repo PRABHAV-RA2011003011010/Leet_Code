@@ -177,6 +177,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0097-interleaving-string) |
@@ -273,6 +274,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0097-interleaving-string) |
@@ -314,6 +316,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0165-compare-version-numbers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
 | [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
