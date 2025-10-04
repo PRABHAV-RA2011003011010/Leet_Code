@@ -16,6 +16,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0494-target-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0498-diagonal-traverse) |
+| [0502-ipo](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0830-largest-triangle-area) |
@@ -84,6 +85,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0670-maximum-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1018-largest-perimeter-triangle) |
@@ -104,6 +106,7 @@
 | [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
+| [0502-ipo](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1018-largest-perimeter-triangle) |
@@ -232,6 +235,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0502-ipo](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0502-ipo) |
 | [1917-maximum-average-pass-ratio](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2429-design-a-food-rating-system) |
