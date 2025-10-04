@@ -265,6 +265,7 @@
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0173-binary-search-tree-iterator) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1628-count-submatrices-with-all-ones) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
@@ -324,6 +325,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
 | [2023-design-movie-rental-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2429-design-a-food-rating-system) |
@@ -352,4 +354,20 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0173-binary-search-tree-iterator) |
+## Binary Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
