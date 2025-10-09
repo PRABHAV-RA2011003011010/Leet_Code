@@ -269,6 +269,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0173-binary-search-tree-iterator) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1628-count-submatrices-with-all-ones) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -280,6 +281,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0097-interleaving-string) |
