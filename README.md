@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
@@ -121,6 +122,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
