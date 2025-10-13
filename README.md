@@ -290,6 +290,7 @@
 | [0013-roman-to-integer](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
