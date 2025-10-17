@@ -13,6 +13,7 @@
 | [0118-pascals-triangle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0221-maximal-square) |
 | [0274-h-index](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0274-h-index) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0502-ipo) |
@@ -132,6 +134,7 @@
 | [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1006-vowel-spellchecker) |
@@ -250,6 +253,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -318,6 +322,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0190-reverse-bits) |
 ## Counting Sort
 |  |
