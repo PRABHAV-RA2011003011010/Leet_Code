@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
@@ -160,6 +161,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0035-search-insert-position) |
 | [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3790-fruits-into-baskets-ii) |
