@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0037-sudoku-solver) |
@@ -162,6 +163,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0162-find-peak-element) |
 | [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
