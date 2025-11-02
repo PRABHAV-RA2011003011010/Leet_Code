@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0221-maximal-square) |
 | [0274-h-index](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0274-h-index) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0162-find-peak-element) |
 | [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3790-fruits-into-baskets-ii) |
