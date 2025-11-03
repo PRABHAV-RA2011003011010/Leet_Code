@@ -14,6 +14,7 @@
 | [0037-sudoku-solver](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0120-triangle) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0326-power-of-three) |
