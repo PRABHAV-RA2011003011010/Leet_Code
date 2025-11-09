@@ -18,6 +18,7 @@
 | [0088-merge-sorted-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0169-majority-element) |
@@ -244,6 +245,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0231-power-of-two) |
 | [2529-range-product-queries-of-powers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2529-range-product-queries-of-powers) |
