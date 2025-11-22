@@ -75,6 +75,7 @@
 | [0013-roman-to-integer](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0326-power-of-three) |
 | [0670-maximum-swap](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0670-maximum-swap) |
@@ -147,6 +148,7 @@
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0202-happy-number) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1006-vowel-spellchecker) |
@@ -362,6 +364,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
 | [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
