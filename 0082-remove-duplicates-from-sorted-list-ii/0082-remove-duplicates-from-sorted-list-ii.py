@@ -16,7 +16,6 @@ class Solution:
                 cur=cur.next
                 prev.next=cur
             else:
-                prev.next=cur
                 prev=prev.next
                 cur=cur.next
 
