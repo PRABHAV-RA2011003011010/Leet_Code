@@ -148,6 +148,7 @@
 | [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0202-happy-number) |
@@ -377,6 +378,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
 | [2023-design-movie-rental-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2023-design-movie-rental-system) |
@@ -438,4 +440,9 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
