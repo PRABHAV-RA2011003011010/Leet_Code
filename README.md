@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -71,8 +71,8 @@
 | [3797-design-spreadsheet](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3827-implement-router) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0066-plus-one) |
@@ -101,8 +101,8 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3830-find-closest-person) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0011-container-with-most-water) |
 | [0502-ipo](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
@@ -115,13 +115,13 @@
 | [2689-rearranging-fruits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0049-group-anagrams](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0169-majority-element) |
@@ -140,8 +140,8 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0013-roman-to-integer) |
@@ -170,15 +170,15 @@
 | [3827-implement-router](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0162-find-peak-element) |
@@ -188,13 +188,13 @@
 | [3791-fruits-into-baskets-iii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3827-implement-router) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3791-fruits-into-baskets-iii) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0498-diagonal-traverse](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0498-diagonal-traverse) |
 | [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -202,8 +202,8 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2023-design-movie-rental-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3678-design-task-manager) |
@@ -211,8 +211,8 @@
 | [3791-fruits-into-baskets-iii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3827-implement-router) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0072-edit-distance) |
@@ -233,8 +233,8 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0037-sudoku-solver) |
 | [0221-maximal-square](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0221-maximal-square) |
@@ -248,12 +248,12 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3797-design-spreadsheet) |
 ## Probability and Statistics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0826-soup-servings](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0826-soup-servings) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0231-power-of-two) |
@@ -261,13 +261,13 @@
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0231-power-of-two](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0326-power-of-three) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0502-ipo) |
@@ -277,45 +277,45 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3678-design-task-manager](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3678-design-task-manager) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2529-range-product-queries-of-powers) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0679-24-game) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0173-binary-search-tree-iterator) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1628-count-submatrices-with-all-ones) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1628-count-submatrices-with-all-ones) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0013-roman-to-integer) |
@@ -337,33 +337,33 @@
 | [3797-design-spreadsheet](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0139-word-break](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0139-word-break) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0190-reverse-bits) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0274-h-index](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0274-h-index) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0830-largest-triangle-area](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -380,8 +380,8 @@
 | [0611-valid-triangle-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [2232-adding-spaces-to-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
@@ -392,67 +392,67 @@
 | [3797-design-spreadsheet](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3827-implement-router) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3462-vowels-game-in-a-string) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3827-implement-router](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3827-implement-router) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Iterator
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0146-lru-cache) |
 ## Randomized
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
