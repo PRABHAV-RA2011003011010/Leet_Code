@@ -26,6 +26,7 @@
 | [0221-maximal-square](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0221-maximal-square) |
 | [0274-h-index](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0274-h-index) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0380-insert-delete-getrandom-o1](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0502-ipo) |
@@ -79,6 +80,7 @@
 | [0202-happy-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0826-soup-servings) |
@@ -152,6 +154,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0900-reordered-power-of-2](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/1006-vowel-spellchecker) |
@@ -382,6 +385,7 @@
 | [0146-lru-cache](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [2023-design-movie-rental-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/3678-design-task-manager) |
@@ -447,4 +451,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0146-lru-cache) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/PRABHAV-RA2011003011010/Leet_Code/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
